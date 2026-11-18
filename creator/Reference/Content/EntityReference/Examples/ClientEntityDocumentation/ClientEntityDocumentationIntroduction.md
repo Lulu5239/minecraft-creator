@@ -73,7 +73,7 @@ Players can set the materials, texture and geometry used for the entity in this 
 
 ## Scripts
 
-Scripts allow players to use Molang to compute calculations once and store that value. This value then can be used over and over again without the need to constantly recompute the calculations. Scripts currently support pre - animation and scale.More script types will be added later.
+Scripts allow players to use Molang to compute calculations once and store that value. This value then can be used over and over again without the need to constantly recompute the calculations. Scripts currently support pre - animation and scale. More script types will be added later.
 
 - Pre-animation scripts are evaluated immediately before animations are processed.
 - Scale sets the scale of the mob's geometry.
