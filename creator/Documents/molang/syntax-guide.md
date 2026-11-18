@@ -110,8 +110,8 @@ In general, variables of a mob are considered private to that mob and cannot be 
         },
         "initialize": [
           "variable.oink = 0;"
-        ],
-      },
+        ]
+      }
     }
   }
 }
